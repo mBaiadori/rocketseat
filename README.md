@@ -1,38 +1,9 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# Rocketseat Ignite - Desafios de Node.js
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+Repositório contendo os desafios desenvolvidos durante a trilha de **Node.js** do Ignite da Rocketseat.
 
+## 📂 Organização dos Desafios
 
-## 💻 Projeto
+Cada desafio está organizado em sua própria subpasta com suas respectivas dependências e testes:
 
-ignite-template-conceitos-do-nodejs
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
-
+- **[Desafio 01 - Conceitos do Node.js](file:///Users/MarcosBaiadori/Desktop/rocketseat/01-conceitos-do-nodejs)**: API para gerenciamento de tarefas (*todos*) com CRUD de usuários e tarefas, autenticação simples via headers (middleware) e testes automatizados.
