@@ -3,16 +3,4 @@ node_modules/
 dist/
 coverage/
 .env
-
-# Context OS Internal Metadata
 *.log
-.hidden_files.json
-.docs.metadata.json
-.dictionary.json
-.templates.json
-.templates.metadata.json
-.project.config.json
-.spec-memory/
-.skills/
-.agents/
-.tools/

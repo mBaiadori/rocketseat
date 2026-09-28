@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rfc-proposal",
+    "templateName": "rfc-proposal",
+    "title": "RFC — Proposta Técnica & Decisão",
+    "ext": "md",
+    "category": "engenharia",
+    "tags": [
+      "rfc",
+      "arquitetura",
+      "proposta",
+      "equipe"
+    ],
+    "skills": [],
+    "updated_at": "2026-09-28T14:08:12.812Z",
+    "content": "# RFC: {{TITLE}\n\n## 1. Resumo Executivo\n\nUma descrição concisa da proposta e do problema que ela resolve para  ou produto.\n\n## 2. Motivação & Problema Atual\n\nQuais são as dores, gargalos técnicos ou necessidades de produto que justificam esta proposta?\n\n## 3. Solução Proposta\n\nDetalhamento da abordagem recomendada, fluxos, componentes afetados e exemplos de uso.\n\n```mermaid\ngraph TD\n    A[Cliente] --> B[Serviço]\n    B --> C[(Banco de Dados)]\n```\n\n## 4. Alternativas Consideradas\n\nQuais outras opções foram avaliadas e por que foram descartadas?\n\n## 5. Riscos & Trade-offs\n\n- **Complexidade:** Impacto na manutenção.\n- **Migração:** Plano para transição e compatibilidade.\n- **Segurança & Performance:** Considerações relevantes.\n\n## 6. Próximos Passos & Responsáveis\n\n- [ ] Tarefa 1: Validação de prova de conceito (@responsável)\n- [ ] Tarefa 2: Implementação do MVP (@responsável)",
+    "prompt": "",
+    "source": "community",
+    "description": "Modelo de RFC para propor grandes alterações de arquitetura ou produto com revisão colaborativa do time.",
+    "badge": "Comunidade",
+    "systemPrompt": "",
+    "assistant_prompt": ""
+  }
+]
