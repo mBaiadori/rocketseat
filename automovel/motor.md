@@ -14,6 +14,8 @@ lifecycle:
   feedback_loops: {}
 ---
 
+ALTERADO
+
 Este documento define a arquitetura, os componentes principais e o funcionamento canônico do **Motor** no ecossistema automotivo.
 
 ## 1. Visão Geral
