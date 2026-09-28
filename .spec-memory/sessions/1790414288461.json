@@ -1,0 +1,16 @@
+{
+  "session_id": "1790414288461",
+  "path": ".skills/living-docs-governance/SKILL.md",
+  "events": [
+    {
+      "role": "user",
+      "text": "Mais do que uma restrição temporária ou dieta passageira, o foco deve estar na reeducação alimentar constante e no desenvolvimento de uma relação positiva com a comida.\n\nresuma e altere este trecho",
+      "timestamp": "2026-09-26T09:18:15.932Z"
+    },
+    {
+      "role": "model",
+      "text": "Erro ao comunicar com Google Gemini: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent: [503 Service Unavailable] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+      "timestamp": "2026-09-26T09:18:15.934Z"
+    }
+  ]
+}

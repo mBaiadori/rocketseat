@@ -1,0 +1,15 @@
+[
+  ".git",
+  ".gitignore",
+  ".DS_Store",
+  "node_modules",
+  ".project.config.json",
+  ".docs.metadata.json",
+  ".dictionary.json",
+  ".templates.json",
+  ".templates.metadata.json",
+  ".spec-memory",
+  ".skills",
+  ".mcp.json",
+  ".hidden_files.json"
+]

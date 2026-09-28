@@ -1,0 +1,136 @@
+[
+  {
+    "id": "01-conceitos-do-nodejs-readme",
+    "name": "README",
+    "title": "README",
+    "ext": "md",
+    "path": "01-conceitos-do-nodejs/README.md",
+    "status": "",
+    "categories": "",
+    "tags": [],
+    "updated_at": "2026-09-28T13:01:52.093Z",
+    "approvers": [],
+    "links": [
+      "LICENSE"
+    ],
+    "templateId": "",
+    "prompt": ""
+  },
+  {
+    "id": "02-trabalhando-com-middlewares-readme",
+    "name": "README",
+    "title": "README",
+    "ext": "md",
+    "path": "02-trabalhando-com-middlewares/README.md",
+    "status": "",
+    "categories": "",
+    "tags": [],
+    "updated_at": "2026-09-25T17:16:46.625Z",
+    "approvers": [],
+    "links": [
+      "LICENSE"
+    ],
+    "templateId": "",
+    "prompt": ""
+  },
+  {
+    "id": "readme",
+    "name": "README",
+    "title": "Rocketseat Ignite - Desafios de Node.js",
+    "ext": "md",
+    "path": "README.md",
+    "status": "",
+    "categories": "",
+    "tags": [],
+    "updated_at": "2026-09-28T13:31:04.379Z",
+    "approvers": [],
+    "links": [
+      "file:///Users/MarcosBaiadori/Desktop/rocketseat/01-conceitos-do-nodejs",
+      "file:///Users/MarcosBaiadori/Desktop/rocketseat/02-trabalhando-com-middlewares"
+    ],
+    "templateId": "",
+    "prompt": ""
+  },
+  {
+    "id": "automovel-carros",
+    "name": "carros",
+    "title": "Arquitetura e Especificação Canônica de Automóveis",
+    "ext": "md",
+    "path": "automovel/carros.md",
+    "status": "",
+    "categories": "",
+    "tags": [],
+    "updated_at": "2026-09-26T12:34:23.760Z",
+    "approvers": [],
+    "links": [
+      "automovel/motor.md#:~:text=O%20motor%20%C3%A9%20o%20cora%C3%A7%C3%A3o%20do%20ve%C3%ADculo%20automotivo%2C%20respons%C3%A1vel%20por%20converter%20energia%20qu%C3%ADmica%20(proveniente%20de%20combust%C3%ADveis%20f%C3%B3sseis%2C%20biocombust%C3%ADveis%20ou%20rea%C3%A7%C3%B5es%20el%C3%A9tricas",
+      "automovel/motor.md",
+      "automovel/combustivel.md",
+      "automovel/pneus.md",
+      "automovel/pneus.md#:~:text=Seguran%C3%A7a%20na%20Frenagem%20e%20Ader%C3%AAncia%3A%20Sulcos%20em%20bom%20estado%20evitam%20a%20aquaplanagem%20e%20garantem%20tra%C3%A7%C3%A3o%20adequada%20em%20pisos%20secos%20e%20molhados.",
+      "automovel/motor.md#:~:text=Cabe%C3%A7ote%3A%20Parte%20superior%20que%20sela%20os%20cilindros%20e%20abriga%20as%20v%C3%A1lvulas%20de%20admiss%C3%A3o%20e%20escape%2C%20al%C3%A9m%20das%20velas%20de%20igni%C3%A7%C3%A3o%20(em%20motores%20a%20combust%C3%A3o"
+    ],
+    "templateId": "",
+    "prompt": ""
+  },
+  {
+    "id": "automovel-pneus",
+    "name": "pneus",
+    "title": "pneus",
+    "ext": "md",
+    "path": "automovel/pneus.md",
+    "status": "",
+    "categories": "",
+    "tags": [],
+    "updated_at": "2026-09-26T10:58:11.016Z",
+    "approvers": [],
+    "links": [],
+    "templateId": "",
+    "prompt": ""
+  },
+  {
+    "id": "automovel-motor",
+    "name": "motor",
+    "title": "Especificação do Motor Automotivo",
+    "ext": "md",
+    "path": "automovel/motor.md",
+    "status": "draft",
+    "categories": "geral",
+    "tags": [],
+    "updated_at": "2026-09-28T13:45:08.119Z",
+    "approvers": [],
+    "links": [],
+    "templateId": "",
+    "prompt": ""
+  },
+  {
+    "id": "automovel-combustivel",
+    "name": "combustivel",
+    "title": "Combustível para Carros",
+    "ext": "md",
+    "path": "automovel/combustivel.md",
+    "status": "draft",
+    "categories": "geral",
+    "tags": [],
+    "updated_at": "2026-09-26T10:46:17.611Z",
+    "approvers": [],
+    "links": [],
+    "templateId": "",
+    "prompt": ""
+  },
+  {
+    "id": "automovel-cores",
+    "name": "cores",
+    "title": "cores",
+    "ext": "md",
+    "path": "automovel/cores.md",
+    "status": "draft",
+    "categories": "geral",
+    "tags": [],
+    "updated_at": "2026-09-28T13:45:35.887Z",
+    "approvers": [],
+    "links": [],
+    "templateId": "",
+    "prompt": ""
+  }
+]

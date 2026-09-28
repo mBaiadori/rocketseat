@@ -1,0 +1,39 @@
+{
+  "project": {
+    "name": "Default Project",
+    "description": "Repositório de documentação da equipe, especificações e base de conhecimento.",
+    "version": "1.0.0",
+    "repository_url": "",
+    "lead": "@equipe",
+    "architecture_pattern": "Documentação Viva & Git"
+  },
+  "categories": ["geral", "engenharia", "produto", "arquitetura", "guias", "reunioes"],
+  "tags": ["rfc", "prd", "api", "backend", "frontend", "infra", "guia", "nota"],
+  "statuses": [
+    {
+      "key": "draft",
+      "label": "Rascunho (DRAFT)",
+      "badge": "badge-neutral"
+    },
+    {
+      "key": "review",
+      "label": "Em Revisão (REVIEW)",
+      "badge": "badge-info"
+    },
+    {
+      "key": "approved",
+      "label": "Aprovado (APPROVED)",
+      "badge": "badge-success"
+    },
+    {
+      "key": "deprecated",
+      "label": "Obsoleto (DEPRECATED)",
+      "badge": "badge-danger"
+    }
+  ],
+  "governance_rules": {
+    "min_approvals_default": 1
+  },
+  "reviewers": [],
+  "ai_template_prompt": "Você é o assistente inteligente de documentação e engenharia da equipe."
+}
